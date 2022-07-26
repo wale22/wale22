@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm wale.</h1>
 <h3 align="center">A young, dilligent and versatile developer.</h3>
-<img align="center"src='https://c.tenor.com/F-Hiz_YBVXwAAAAC/bibeknaik-busy.gif' width="400px"/>
+<img align="right"src='https://c.tenor.com/F-Hiz_YBVXwAAAAC/bibeknaik-busy.gif' width="300px" height="300px"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wale22" alt="wale22" /></a> </p>
 
 - 🔭 I’m currently working on **a react native project**
