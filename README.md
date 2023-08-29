@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm wale.</h1>
-<h3 align="center">A young, dilligent and versatile developer.</h3>
+<h3 align="center">A young, dilligent and versatile software developer.i'm a fullstack web and mobile application developer.</h3>
 <img align="right"src='https://c.tenor.com/F-Hiz_YBVXwAAAAC/bibeknaik-busy.gif' width="300px" height="300px"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wale22" alt="wale22" /></a> </p>
 
-- 🔭 I’m currently working on **a react native project**
-
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **html, css ,javascript, react , python and php**
+- 👯 I’m looking to collaborate on **html, css, javascript, reactjs, reactnative, python, fastApi and solidity projects**
 
-- 💬 Ask me about **react , flask , php e.t.c**
-
-- 📫 How to reach me **walemustapha08@gmail.com**
+- 📫 How to reach me **walemustapha08@gmail.com or 08129005104**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
