@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **html, css, javascript, reactjs, reactnative, python, fastApi and solidity projects**
+- 👯 I’m looking to collaborate on **html, css, javascript, reactjs, reactnative, python, fastApi, solidity and Ai projects**
 
 - 📫 How to reach me **walemustapha08@gmail.com or 08129005104**
 
